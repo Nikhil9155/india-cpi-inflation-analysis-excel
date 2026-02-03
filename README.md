@@ -50,8 +50,11 @@ The dataset covers **Rural, Urban, and Rural+Urban sectors** across **30+ CPI ca
 - Time-Series Analysis  
 - Trend Analysis  
 - Economic Data Interpretation  
-- Analytical Thinking & Problem Solving  
+- Analytical Thinking & Problem Solving
 
+---
+## Project Preview 
+https://drive.google.com/drive/folders/1AHPJXSAs9OIeCpLfK4N4HXGBUPTwbWli?usp=sharing
 ---
 
 ## 👤 About Me
